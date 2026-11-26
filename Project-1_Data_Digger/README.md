@@ -310,6 +310,7 @@ All project execution screenshots are available in the `assets` folder.
 Watch the complete project demonstration to understand database creation, SQL query execution, CRUD operations, and table relationships.
 
 **Video:** `assets/Project Demonstration.mp4`
+**[▶️ Open Project Demonstration Video](assets/Project%20Demonstration.mp4)**
 
 ## 🎯 Learning Outcomes
 
